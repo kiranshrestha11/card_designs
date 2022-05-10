@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Color(0xffBACAD9),
       body: Center(
-        child: GradientText(),
+        child: Calendar(),
       ),
     );
   }
