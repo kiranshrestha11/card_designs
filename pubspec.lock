@@ -50,6 +50,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.4"
+  emoji_feedback:
+    dependency: "direct main"
+    description:
+      name: emoji_feedback
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.0"
   fading_edge_scrollview:
     dependency: transitive
     description:
