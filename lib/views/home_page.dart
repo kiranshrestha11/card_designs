@@ -1,3 +1,4 @@
+import 'package:card_designs/book%20now/book_now.dart';
 import 'package:card_designs/calendar/calendar.dart';
 import 'package:card_designs/circle_progress/circle_page.dart';
 import 'package:card_designs/coffee%20rating/coffee_rating.dart';
@@ -18,7 +19,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Color(0xffBACAD9),
       body: Center(
-        child: CoffeeRating(),
+        child: BookNow(),
       ),
     );
   }
